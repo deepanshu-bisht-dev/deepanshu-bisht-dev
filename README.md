@@ -15,7 +15,7 @@
 ### 🧠 About Me
 
 - 🎓 First-year **B.Tech CSE (AI/ML)** student at Future University, Bareilly
-- 🤖 Exploring **AI/ML, Generative AI, and Prompt Engineering** — completed 13 courses via Anthropic Academy
+- 🤖 Exploring **AI/ML, Python, DSA, Web Development and Data Science** — completed 13 courses via Anthropic Academy
 - 💻 Building projects around Python, C, and web development while sharpening my Git/GitHub workflow
 - 🌱 Always shipping something — from automation scripts to AI-powered mini apps
 
