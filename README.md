@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Deepanshu 👋</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Deepanshu%20Bisht&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20%7C%20Ethical%20Hacking%20%7C%20Building%20in%20Public&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Deepanshu%20Bisht&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20%7C%20AI%20%7C%20Data%20Science%20%7C%20Web%20Development&descAlignY=55&descSize=18" />
 </p>
 
 <p align="center">
