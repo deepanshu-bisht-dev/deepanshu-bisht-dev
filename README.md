@@ -37,17 +37,6 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=deepanshu-bisht-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshu-bisht-dev&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepanshu-bisht-dev&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<p align="center">
+![GitHub Streak](https://streak-stats.demolab.com?user=deepanshu-bisht-dev&theme=radical&hide_border=true&background=0D1117&stroke=00F5FF&ring=00F5FF&fire=FF6B6B&currStreakLabel=00F5FF)
   <i>Open to internships, collabs, and interesting problems to solve.</i>
 </p>
