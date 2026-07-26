@@ -38,5 +38,6 @@
 ### 📊 GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=deepanshu-bisht-dev&theme=radical&hide_border=true&background=0D1117&stroke=00F5FF&ring=00F5FF&fire=FF6B6B&currStreakLabel=00F5FF)
-  <i>Open to internships, collabs, and interesting problems to solve.</i>
+<p>
+  Open to internships, collabs, and interesting problems to solve.</i>
 </p>
