@@ -52,8 +52,6 @@
 | 🗞️ **News Fetcher App** | Pulls and displays live headlines using the NewsAPI |
 | 💧 **Drink Water Reminder** | A desktop notifier built with `plyer` to nudge healthy habits |
 
-> 📌 *Pin your best repos on your actual GitHub profile for maximum impact!*
-
 ---
 
 ### 📊 GitHub Stats
