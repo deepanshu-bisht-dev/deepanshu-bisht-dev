@@ -86,6 +86,9 @@
   <a href="https://www.linkedin.com/in/deepanshu-bisht-853731379">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://www.instagram.com/deepanshu___25/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
@@ -95,4 +98,3 @@
 <p align="center">
   <b>🚀 Open to internships, collaborations, and interesting problems to solve.</b>
 </p>
-
