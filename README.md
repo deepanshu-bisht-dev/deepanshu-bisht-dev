@@ -5,8 +5,15 @@
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Building+with+Python+%26+AI;Exploring+Ethical+Hacking+%26+Security;Always+shipping+something+new" />
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/deepanshu-bisht-853731379">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/deepanshu-bisht-dev">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -14,8 +21,8 @@
 
 ### 🧠 About Me
 
-- 🎓 Second-year **B.Tech CSE-(AI/ML)** student at Future University, Bareilly
-- 🤖 Exploring **AI/ML, Python, DSA, Web Development and Data Science** 
+- 🎓 Second-year **B.Tech CSE (AI/ML)** student at Future University, Bareilly
+- 🤖 Exploring **AI/ML, Python, DSA, Web Development and Data Science**
 - 💻 Building projects around Python, C, and web development while sharpening my Git/GitHub workflow
 - 🌱 Always shipping something — from automation scripts to AI-powered mini apps
 
@@ -35,9 +42,32 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🚧 Featured Projects
 
-![GitHub Streak](https://streak-stats.demolab.com?user=deepanshu-bisht-dev&theme=radical&hide_border=true&background=0D1117&stroke=00F5FF&ring=00F5FF&fire=FF6B6B&currStreakLabel=00F5FF)
-<p>
-  Open to internships, collabs, and interesting problems to solve.</i>
+| Project | Description |
+|---|---|
+| 🤖 **Virtual Assistant** | A Python voice/desktop assistant built using OpenAI's GPT-4o |
+| 🧮 **Calculator with History** | A Python calculator that logs and recalls past calculations |
+| 📄 **QR Code Generator** | Generates custom QR codes from text/links using Python |
+| 🗞️ **News Fetcher App** | Pulls and displays live headlines using the NewsAPI |
+| 💧 **Drink Water Reminder** | A desktop notifier built with `plyer` to nudge healthy habits |
+
+> 📌 *Pin your best repos on your actual GitHub profile for maximum impact!*
+
+---
+
+### 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/deepanshu-bisht-853731379">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="400" />
+</p>
+
+<p align="center">
+  <b>🚀 Open to internships, collaborations, and interesting problems to solve.</b>
 </p>
