@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Building+with+Python+%26+AI;Exploring+Ethical+Hacking+%26+Security;Always+shipping+something+new" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Turning+coffee+into+code;Building+voice+assistants+%26+AI+tools;Frontend+dev+%2B+Mechanical+%2B+Electrical+enthusiast;Currently+debugging+life+%F0%9F%98%84" />
 </p>
 
 <p align="center">
@@ -56,6 +56,30 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deepanshu-bisht-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepanshu-bisht-dev&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshu-bisht-dev&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepanshu-bisht-dev&theme=react-dark" />
+</p>
+
+---
+
 ### 🤝 Let's Connect
 
 <p align="center">
@@ -71,3 +95,4 @@
 <p align="center">
   <b>🚀 Open to internships, collaborations, and interesting problems to solve.</b>
 </p>
+
