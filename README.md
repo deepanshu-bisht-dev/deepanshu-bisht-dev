@@ -68,8 +68,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshu-bisht-dev&layout=compact&theme=radical" />
 </p>
 
----
-
 ### 📈 Contribution Graph
 
 <p align="center">
