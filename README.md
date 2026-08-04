@@ -54,20 +54,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepanshu-bisht-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepanshu-bisht-dev&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshu-bisht-dev&layout=compact&theme=radical" />
-</p>
-
 ### 📈 Contribution Graph
 
 <p align="center">
