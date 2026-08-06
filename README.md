@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Turning+coffee+into+code;Building+voice+assistants+%26+AI+tools;Frontend+dev+%2B+Mechanical+%2B+Electrical+enthusiast;Currently+debugging+life+%F0%9F%98%84" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Turning+coffee+into+code;Building+voice+assistants+%26+AI+tools;Currently+debugging+life+%F0%9F%98%84" />
 </p>
 
 <p align="center">
