@@ -54,13 +54,6 @@
 
 ---
 
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepanshu-bisht-dev&theme=react-dark" />
-</p>
-
----
 
 ### 🤝 Let's Connect
 
