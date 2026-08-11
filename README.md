@@ -41,19 +41,30 @@
 </p>
 
 ---
+## 🚀 Projects
 
-### 🚧 Featured Projects
+### 🌟 Featured
 
-| Project | Description |
-|---|---|
-| 🤖 **Virtual Assistant** | A Python voice/desktop assistant built using OpenAI's GPT-4o |
-| 🧮 **Calculator with History** | A Python calculator that logs and recalls past calculations |
-| 📄 **QR Code Generator** | Generates custom QR codes from text/links using Python |
-| 🗞️ **News Fetcher App** | Pulls and displays live headlines using the NewsAPI |
-| 💧 **Drink Water Reminder** | A desktop notifier built with `plyer` to nudge healthy habits |
+**[InternHelp – AI-Powered FAQ Chatbot](https://github.com/deepanshu-bisht-dev/InternHelp)**
+A Flask-based intelligent chatbot using Sentence Transformers for semantic search, built during my Python Developer Internship at Codec Technologies. Matches user queries to FAQs with high accuracy instead of relying on rigid keyword matching.
+`Python` `Flask` `Sentence-Transformers` `NLP`
+
+**[Image Recognition System](https://github.com/deepanshu-bisht-dev/Image-Recognition-System)**
+A real-time image classification app powered by MobileNetV2 (TensorFlow), featuring a sleek HUD-style frontend for an interactive prediction experience.
+`Python` `TensorFlow` `MobileNetV2` `Deep Learning`
 
 ---
 
+### 🛠️ Other Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [virtual_assistant](https://github.com/deepanshu-bisht-dev/virtual_assistant) | Terminal-based Jarvis-style AI assistant | Python, OpenAI GPT-4o |
+| [py_projects](https://github.com/deepanshu-bisht-dev/py_projects) | Collection of Python mini-projects — Calculator, KBC Quiz, PDF Merger, News Fetcher, Water Reminder | Python |
+| [python_grind](https://github.com/deepanshu-bisht-dev/python_grind) | Ongoing Python learning journey organized by topic | Python |
+| [QR-Code-Generator](https://github.com/deepanshu-bisht-dev/qr_code_generator) | Simple QR code generator utility | Python |
+| [Funny-Headlines-Generator](https://github.com/deepanshu-bisht-dev/Funny-Headlines-Generator) | Randomized humorous headline generator | Python |
+| [Calculator-With-History](https://github.com/deepanshu-bisht-dev/Calculator-With-History) | Calculator that logs and displays calculation history | Python |
 
 ### 🤝 Let's Connect
 
