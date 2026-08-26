@@ -116,14 +116,6 @@ Automated news headline tracker that scrapes on a schedule, deduplicates entries
 
 ---
 
-### 📊 GitHub Activity
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=deepanshu-bisht-dev&theme=radical&hide_border=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshu-bisht-dev&layout=compact&theme=radical&hide_border=true" width="48%"/>
-</div>
-
----
 
 ### 📬 Let's Connect
 
