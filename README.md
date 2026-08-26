@@ -56,7 +56,7 @@ AI-powered resume analyzer — extracts structured candidate data (skills, educa
 </td>
 <td width="50%">
 
-**📰 WIRE — News Scraper**
+**📰[ WIRE — News Scraper](https://github.com/deepanshu-bisht-dev/wire-news-scraper)**
 Automated news headline tracker that scrapes on a schedule, deduplicates entries, and exports to CSV — built lightweight enough to run on Python 3.14.
 
 `Python` `Flask` `BeautifulSoup` `SQLite`
