@@ -1,86 +1,142 @@
-<h1 align="center">Hi, I'm Deepanshu 👋</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Deepanshu%20Bisht&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20%7C%20AI%20%7C%20Data%20Science%20%7C%20Web%20Development&descAlignY=55&descSize=18" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Hi%20There,%20I'm%20Deepanshu%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20Developer%20Intern%20%7C%20AI%2FML%20Enthusiast%20%7C%20B.Tech%20CSE%20Student&descAlignY=55&descSize=16" width="100%"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Turning+coffee+into+code;Currently+debugging+life+%F0%9F%98%84" />
-</p>
+<img src="https://readme-typing-svg.demolab.com/?lines=Python+Developer+Intern+%40+Codec+Technologies;B.Tech+CSE+(AI%2FML)+%40+Future+University;Building+AI-powered+tools+one+bug+at+a+time;Chatbots+%7C+Computer+Vision+%7C+NLP+%7C+Automation&font=Fira+Code&center=true&width=600&height=45&duration=3000&pause=1000&color=764ABA&vCenter=true&size=22"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/deepanshu-bisht-853731379">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/deepanshu-bisht-dev">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=deepanshu-bisht-dev&color=764aba&style=for-the-badge&label=PROFILE+VIEWS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Instagram](https://img.shields.io/badge/Instagram-deepanshu___25-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
+
+</div>
 
 ---
 
-### 🧠 About Me
+### 👨‍💻 About Me
 
-- 🎓 Second-year **B.Tech CSE (AI/ML)** student at Future University, Bareilly
-- 🤖 Exploring **AI/ML, Python, DSA, Web Development and Data Science**
-- 💻 Building projects around Python, C, and web development while sharpening my Git/GitHub workflow
-- 🌱 Always shipping something — from automation scripts to AI-powered mini apps
+- 🎓 Second-year **B.Tech CSE (AI/ML)** student at Future University, Bareilly (2024–2028)
+- 💼 Currently a **Python Developer Intern** at **Codec Technologies** (Aug–Nov 2026)
+- 🧩 Active member of the **Einstein Club** — my college's tech community
+- 🤖 Building things at the intersection of **AI, automation, and web development**
+- 🔐 Practice ethical hacking / VAPT in controlled lab environments (DVWA, Kali Linux)
+- 📚 Completed **13 Anthropic Academy courses** on building with LLMs
+- 🌱 Currently deepening my skills in **NLP, computer vision, and backend architecture**
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+**🤖 [InternHelp](https://github.com/deepanshu-bisht-dev/InternHelp-AI-Powered-Internship-Portal-Support-Chatbot)**
+AI-powered internship/job portal support chatbot using semantic search — Flask + Sentence-Transformers, with contextual FAQ matching and interaction logging.
+
+`Python` `Flask` `Sentence-Transformers` `SQLite`
+
+</td>
+<td width="50%">
+
+**👁️ [VISION](https://github.com/deepanshu-bisht-dev/Image-Recognition-System)**
+Real-time image recognition system with a custom machine-vision themed UI — classifies 1000+ object categories and detects human faces.
+
+`Python` `TensorFlow/Keras` `OpenCV` `Flask`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**📄 ResumeIQ**
+AI-powered resume analyzer — extracts structured candidate data (skills, education, contact info) via spaCy NER, and scores resumes against job descriptions using TF-IDF similarity.
+
+`Python` `Flask` `spaCy` `scikit-learn`
+
+</td>
+<td width="50%">
+
+**📰 WIRE — News Scraper**
+Automated news headline tracker that scrapes on a schedule, deduplicates entries, and exports to CSV — built lightweight enough to run on Python 3.14.
+
+`Python` `Flask` `BeautifulSoup` `SQLite`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<sub>All four were built end-to-end — backend logic, custom frontend UI, and deployment-ready structure — with zero paid APIs.</sub>
+</div>
 
 ---
 
 ### 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
-</p>
+<div align="center">
+
+**Languages & Core**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Frameworks & Libraries**
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+**AI / LLM APIs**
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+</div>
 
 ---
-## 🚀 Projects
 
-### 🌟 Featured
+### 📜 Certifications
 
-**[InternHelp – AI-Powered FAQ Chatbot](https://github.com/deepanshu-bisht-dev/InternHelp)**
-A Flask-based intelligent chatbot using Sentence Transformers for semantic search, built during my Python Developer Internship at Codec Technologies. Matches user queries to FAQs with high accuracy instead of relying on rigid keyword matching.
-`Python` `Flask` `Sentence-Transformers` `NLP`
-
-**[Image Recognition System](https://github.com/deepanshu-bisht-dev/Image-Recognition-System)**
-A real-time image classification app powered by MobileNetV2 (TensorFlow), featuring a sleek HUD-style frontend for an interactive prediction experience.
-`Python` `TensorFlow` `MobileNetV2` `Deep Learning`
+- 🏅 **TCS iON** Certification
+- 🏅 **Python Certified Programmer**
+- 🏅 **AICTE–EduSkills** Ethical Hacking Virtual Internship — *Outstanding Grade*
+- 🏅 **YUVA AI for All** Certificate
 
 ---
 
-### 🛠️ Other Projects
+### 📊 GitHub Activity
 
-| Project | Description | Tech |
-|---|---|---|
-| [virtual_assistant](https://github.com/deepanshu-bisht-dev/virtual_assistant) | Terminal-based Jarvis-style AI assistant | Python, OpenAI GPT-4o |
-| [py_projects](https://github.com/deepanshu-bisht-dev/py_projects) | Collection of Python mini-projects — Calculator, KBC Quiz, PDF Merger, News Fetcher, Water Reminder | Python |
-| [python_grind](https://github.com/deepanshu-bisht-dev/python_grind) | Ongoing Python learning journey organized by topic | Python |
-| [QR-Code-Generator](https://github.com/deepanshu-bisht-dev/qr_code_generator) | Simple QR code generator utility | Python |
-| [Funny-Headlines-Generator](https://github.com/deepanshu-bisht-dev/Funny-Headlines-Generator) | Randomized humorous headline generator | Python |
-| [Calculator-With-History](https://github.com/deepanshu-bisht-dev/Calculator-With-History) | Calculator that logs and displays calculation history | Python |
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=deepanshu-bisht-dev&theme=radical&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshu-bisht-dev&layout=compact&theme=radical&hide_border=true" width="48%"/>
+</div>
 
-### 🤝 Let's Connect
+---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/deepanshu-bisht-853731379">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/deepanshu___25/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+### 📬 Let's Connect
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="400" />
-</p>
+<div align="center">
 
-<p align="center">
-  <b>🚀 Open to internships, collaborations, and interesting problems to solve.</b>
-</p>
+I'm always open to discussing internships, collaborations, or interesting AI/ML projects.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deepanshu-bisht-dev)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=100&section=footer" width="100%"/>
