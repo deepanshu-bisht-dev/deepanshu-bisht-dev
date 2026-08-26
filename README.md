@@ -16,9 +16,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Second-year **B.Tech CSE (AI/ML)** student at Future University, Bareilly (2024–2028)
-- 💼 Currently a **Python Developer Intern** at **Codec Technologies** (Aug–Nov 2026)
-- 🧩 Active member of the **Einstein Club** — my college's tech community
+- 🎓 Second-year **B.Tech CSE (AI/ML)** student at Future University, Bareilly (2025–2029)
 - 🤖 Building things at the intersection of **AI, automation, and web development**
 - 🔐 Practice ethical hacking / VAPT in controlled lab environments (DVWA, Kali Linux)
 - 📚 Completed **13 Anthropic Academy courses** on building with LLMs
