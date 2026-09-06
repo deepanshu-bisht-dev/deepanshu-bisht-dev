@@ -48,7 +48,7 @@ Real-time image recognition system with a custom machine-vision themed UI — cl
 <tr>
 <td width="50%">
 
-**📄 ResumeIQ**
+**📄 [ResumeIQ](https://github.com/deepanshu-bisht-dev/ResumeIQ)**
 AI-powered resume analyzer — extracts structured candidate data (skills, education, contact info) via spaCy NER, and scores resumes against job descriptions using TF-IDF similarity.
 
 `Python` `Flask` `spaCy` `scikit-learn`
