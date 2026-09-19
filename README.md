@@ -18,7 +18,6 @@
 
 - 🎓 Second-year **B.Tech CSE (AI/ML)** student at Future University, Bareilly (2025–2029)
 - 🤖 Building things at the intersection of **AI, automation, and web development**
-- 🔐 Practice ethical hacking / VAPT in controlled lab environments (DVWA, Kali Linux)
 - 📚 Completed **13 Anthropic Academy courses** on building with LLMs
 - 🌱 Currently deepening my skills in **NLP, computer vision, and backend architecture**
 
