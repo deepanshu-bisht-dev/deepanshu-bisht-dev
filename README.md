@@ -1,130 +1,205 @@
+<!-- ================= HEADER ================= -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Hi%20There,%20I'm%20Deepanshu%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20Developer%20%20AI%2FML%20Enthusiast%20%7C%20B.Tech%20CSE%20Student&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=230&section=header&text=Deepanshu%20Bisht&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20AI%2FML%20Student%20%7C%20Prompt%20Engineer&descSize=18&descAlignY=60" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com/?lines=B.Tech+CSE+(AI%2FML);Building+AI-powered+tools;Chatbots+%7C+Computer+Vision+%7C+NLP+%7C+Automation&font=Fira+Code&center=true&width=600&height=45&duration=3000&pause=1000&color=764ABA&vCenter=true&size=22"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=Hey+there!+%F0%9F%91%8B+I'm+Deepanshu;Python+Developer+Intern+%40+Codec+Technologies;B.Tech+CSE+(AI%2FML)+%7C+Future+University;Secretary+%40+Einstein+Club+%F0%9F%9A%80;Building+AI+tools%2C+one+commit+at+a+time+%F0%9F%92%BB" alt="Typing SVG" />
+</a>
 
-<br>
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Instagram](https://img.shields.io/badge/Instagram-deepanshu___25-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
+<img src="https://img.shields.io/badge/Profile%20Views-Counting...-00c6ff?style=for-the-badge&logo=github&logoColor=white" alt="views" />
+<img src="https://img.shields.io/github/followers/deepanshu-bisht-dev?style=for-the-badge&logo=github&color=2c5364" alt="followers" />
+<img src="https://img.shields.io/github/stars/deepanshu-bisht-dev?style=for-the-badge&logo=github&color=f1c40f" alt="stars" />
 
 </div>
 
----
+<br/>
 
-### 👨‍💻 About Me
+<!-- ================= ABOUT ================= -->
+## 👨‍💻 About Me
 
-- 🎓 Second-year **B.Tech CSE (AI/ML)** student at Future University, Bareilly (2025–2029)
-- 🤖 Building things at the intersection of **AI, automation, and web development**
-- 📚 Completed **13 Anthropic Academy courses** on building with LLMs
-- 🌱 Currently deepening my skills in **NLP, computer vision, and backend architecture**
+```python
+class Deepanshu:
+    def __init__(self):
+        self.name       = "Deepanshu Bisht"
+        self.role       = "Python Developer Intern @ Codec Technologies"
+        self.studying   = "B.Tech CSE (AI/ML), 2nd Year, Future University, Bareilly"
+        self.leading    = "Secretary, Einstein Club (college tech club)"
+        self.learning   = ["JavaScript", "FastAPI", "C++", "Prompt Engineering"]
+        self.fun_fact   = "Messi fan, and I love building things that make people smile ⚽"
 
----
+    def current_mission(self):
+        return "Build real projects, break things, fix them, and ship."
+```
 
-### 🚀 Featured Projects
+- 🔭 Working on **AI-powered tools** and **Python automation**
+- 🌱 Currently learning **JavaScript**, **FastAPI** and **C++**
+- 🧠 Completed **13 Anthropic Academy courses** and love **prompt engineering**
+- 🛡️ Into **ethical hacking** (only in controlled lab environments, always legal)
+- 🎤 Organise and present workshops and events as **Secretary of Einstein Club**
+- 💬 Ask me about **Python, AI/ML, Flask, Git or prompt engineering**
+
+<br/>
+
+<!-- ================= TECH STACK ================= -->
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-Learning-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+**Frameworks and Libraries**
+
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/React-Basics-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+
+**AI and Data**
+
+<img src="https://img.shields.io/badge/Claude%20API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-00C6FF?style=for-the-badge&logo=probot&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+
+**Tools and Platforms**
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+
+</div>
+
+<br/>
+
+<!-- ================= PROJECTS ================= -->
+## 🚀 Featured Projects
 
 <table>
-<tr>
-<td width="50%">
-
-**🤖 [InternHelp](https://github.com/deepanshu-bisht-dev/InternHelp-AI-Powered-Internship-Portal-Support-Chatbot)**
-AI-powered internship/job portal support chatbot using semantic search — Flask + Sentence-Transformers, with contextual FAQ matching and interaction logging.
-
-`Python` `Flask` `Sentence-Transformers` `SQLite`
-
-</td>
-<td width="50%">
-
-**👁️ [VISION](https://github.com/deepanshu-bisht-dev/Image-Recognition-System)**
-Real-time image recognition system with a custom machine-vision themed UI — classifies 1000+ object categories and detects human faces.
-
-`Python` `TensorFlow/Keras` `OpenCV` `Flask`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**📄 [ResumeIQ](https://github.com/deepanshu-bisht-dev/ResumeIQ)**
-AI-powered resume analyzer — extracts structured candidate data (skills, education, contact info) via spaCy NER, and scores resumes against job descriptions using TF-IDF similarity.
-
-`Python` `Flask` `spaCy` `scikit-learn`
-
-</td>
-<td width="50%">
-
-**📰[ WIRE — News Scraper](https://github.com/deepanshu-bisht-dev/wire-news-scraper)**
-Automated news headline tracker that scrapes on a schedule, deduplicates entries, and exports to CSV — built lightweight enough to run on Python 3.14.
-
-`Python` `Flask` `BeautifulSoup` `SQLite`
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 InternHelp</h3>
+      <p>AI-powered support chatbot for internship and job portals, built with <b>Flask</b> and <b>sentence-transformers</b>.</p>
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask" />
+      <img src="https://img.shields.io/badge/NLP-00C6FF?style=flat-square" />
+      <br/><br/>
+      <a href="https://github.com/deepanshu-bisht-dev/InternHelp-AI-Powered-Internship-Portal-Support-Chatbot">
+        <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>👁️ VISION</h3>
+      <p>Image recognition system powered by <b>TensorFlow/Keras (MobileNetV2)</b> and <b>OpenCV</b>.</p>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow" />
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv" />
+      <br/><br/>
+      <a href="https://github.com/deepanshu-bisht-dev/Image-Recognition-System">
+        <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧰 ToolBox</h3>
+      <p>Multipurpose file utility web app with <b>FastAPI</b>: QR generator/scanner, image tools, PDF merge/split/convert and watermarking.</p>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi" />
+      <img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>📧 Email Automation Tool</h3>
+      <p>Plain-Python email automation with a standalone validation module (syntax, domain, DNS/MX and provider checks).</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square" />
+    </td>
+  </tr>
 </table>
 
 <div align="center">
-<sub>All four were built end-to-end — backend logic, custom frontend UI, and deployment-ready structure — with zero paid APIs.</sub>
+  <a href="https://github.com/deepanshu-bisht-dev?tab=repositories">
+    <img src="https://img.shields.io/badge/See%20All%20Repositories-%E2%86%92-00c6ff?style=for-the-badge&logo=github" />
+  </a>
 </div>
 
----
+<br/>
 
-### 🛠️ Tech Stack
+<!-- ================= STATS ================= -->
+## 📊 GitHub Stats
 
 <div align="center">
 
-**Languages & Core**
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=deepanshu-bisht-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshu-bisht-dev&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<br/>
 
-**Frameworks & Libraries**
+<img src="https://streak-stats.demolab.com?user=deepanshu-bisht-dev&theme=tokyonight&hide_border=true" alt="streak" />
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+<br/>
 
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-**AI / LLM APIs**
-
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=deepanshu-bisht-dev&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" width="95%" />
 
 </div>
 
----
+<br/>
 
-### 📜 Certifications
-
-- 🏅 **TCS iON** Certification
-- 🏅 **Python Certified Programmer**
-- 🏅 **AICTE–EduSkills** Ethical Hacking Virtual Internship — *Outstanding Grade*
-- 🏅 **YUVA AI for All** Certificate
-
----
-
-
-### 📬 Let's Connect
+<!-- ================= ACHIEVEMENTS ================= -->
+## 🏆 Certifications and Achievements
 
 <div align="center">
 
-I'm always open to discussing internships, collaborations, or interesting AI/ML projects.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deepanshu-bisht-dev)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
+<img src="https://img.shields.io/badge/Anthropic%20Academy-13%20Courses-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-Certified%20Programmer-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/TCS%20iON-Certified-0066B3?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AICTE--EduSkills-Ethical%20Hacking%20(Outstanding)-2E8B57?style=for-the-badge" />
+<img src="https://img.shields.io/badge/YUVA%20AI%20for%20All-Certified-FF9933?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Einstein%20Club-Secretary-8A2BE2?style=for-the-badge" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=100&section=footer" width="100%"/>
+<br/>
+
+<!-- ================= CONNECT ================= -->
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/deepanshu___25">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="mailto:deepanshu180607@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/deepanshu-bisht-dev">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=F1C40F&center=true&vCenter=true&width=600&lines=Open+to+internships%2C+collabs+and+cool+projects+%F0%9F%A4%9D;Drop+a+%E2%AD%90+if+you+liked+my+work!" alt="cta" />
+
+</div>
+
+<br/>
+
+<!-- ================= FOOTER ================= -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=120&section=footer" alt="footer" />
+</div>
+
+
