@@ -1,10 +1,10 @@
 <!-- ================= HEADER ================= -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=230&section=header&text=Deepanshu%20Bisht&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20AI%2FML%20Student%20%7C%20Tech%20Club%20Secretary&descSize=18&descAlignY=60" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=230&section=header&text=Deepanshu%20Bisht&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20AI%2FML%20Student%20%7C%20Tech%20Enthusiast&descSize=18&descAlignY=60" alt="header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=Hey+there!+%F0%9F%91%8B+I'm+Deepanshu;Python+Developer+Intern+%40+Codec+Technologies;B.Tech+CSE+(AI%2FML)+%7C+Future+University;Secretary+%40+Einstein+Club+%F0%9F%9A%80;Building+AI+tools%2C+one+commit+at+a+time+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=Hey+there!+%F0%9F%91%8B+I'm+Deepanshu;Python+Developer+%26+AI%2FML+Learner;2nd+Year+B.Tech+(AI%2FML)+Student;Tech+Enthusiast+%F0%9F%9A%80;Building+AI+tools%2C+one+commit+at+a+time+%F0%9F%92%BB" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -24,7 +24,7 @@
 class Deepanshu:
     def __init__(self):
         self.name       = "Deepanshu Bisht"
-        self.role       = "Python Developer Intern @ Codec Technologies"
+        self.role       = "Python Developer & Tech Enthusiast"
         self.studying   = "B.Tech CSE (AI/ML), 2nd Year, Future University, Bareilly"
         self.leading    = "Secretary, Einstein Club (college tech club)"
         self.learning   = ["JavaScript", "FastAPI", "C++"]
@@ -200,5 +200,3 @@ class Deepanshu:
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=120&section=footer" alt="footer" />
 </div>
-
-
